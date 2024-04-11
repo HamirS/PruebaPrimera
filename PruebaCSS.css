@@ -1,0 +1,15 @@
+#Img{
+    max-width: 300px;
+    
+}
+
+#Descripcion{
+    text-align: right;
+    margin-right: 500px;
+    margin-left: 500px;
+    text-align: center;
+    color:white;
+    display: inline-block;
+    vertical-align: top;
+    background-color: green;
+}
